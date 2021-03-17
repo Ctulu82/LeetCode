@@ -1,9 +1,3 @@
-//
-//  Solution.swift
-//  Roman to Integer
-//
-//  Created by taehyun on 2021/03/17.
-//
 
 import Foundation
 
