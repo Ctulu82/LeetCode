@@ -1,6 +1,4 @@
 
-import Foundation
-
 class Solution {
     func romanToInt(_ s: String) -> Int {
         let arr = s.map { String($0) }  // 문자 배열
